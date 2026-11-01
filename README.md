@@ -3,7 +3,7 @@
 **Computer Science student at TU Munich · AI/LLM Engineer · Open-source contributor to LangChain4j**
 
 I build LLM applications and test how well they hold up under attack, from RAG systems to benchmarks for prompt-injection defenses.
-After graduating, I'm looking for a **fully remote AI Engineer role**.
+Open to interesting opportunities.
 
 ## What I work on
 
