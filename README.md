@@ -43,17 +43,11 @@ I build LLM applications and test how well they hold up under attack, from RAG s
 
 ## 📊 Activity
 
-<!-- Optional: depends on an external service and can occasionally be down. Delete this block if it breaks. -->
+<!-- STATS START: delete everything down to STATS END if the card does not load -->
 <p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PSchmitz-Valckenberg&show_icons=true&hide_rank=true&hide_border=true&count_private=true&hide=stars,issues&theme=dark&bg_color=0d1117" />
 </p>
-
-<!-- Needs the snake.yml workflow to have run once (creates the "output" branch). -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSchmitz-Valckenberg/PSchmitz-Valckenberg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PSchmitz-Valckenberg/PSchmitz-Valckenberg/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/PSchmitz-Valckenberg/PSchmitz-Valckenberg/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- STATS END -->
 
 ## 📫 Contact
 
