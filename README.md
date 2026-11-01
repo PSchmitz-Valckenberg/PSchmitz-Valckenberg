@@ -27,4 +27,4 @@ After graduating, I'm looking for a **fully remote AI Engineer role**.
 
 ## Contact
 
-[Email](mailto: philipsv05@yahoo.com) · Languages: German, French, English
+[Email](mailto:philipsv05@yahoo.com) · Languages: German, French, English
