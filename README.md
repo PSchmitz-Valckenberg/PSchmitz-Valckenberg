@@ -1,12 +1,12 @@
 # Hi, I'm Philip Schmitz-Valckenberg 👋
 
-**Computer Science student at TU Munich · AI/LLM Engineer · Open-source contributor to LangChain4j**
+**AI/LLM Engineer · Open-source contributor to LangChain4j**
 
 I build LLM applications and test how well they hold up under attack, from RAG systems to benchmarks for prompt-injection defenses. Open to interesting opportunities.
 
 ## 🔭 Currently
 
-- 🛡️ Writing my Bachelor's thesis on *Search-Based Testing of Prompt-Injection Defenses for LLM Applications* (TUM)
+- 🛡️ Writing my Bachelor's thesis on *Search-Based Testing of Prompt-Injection Defenses for LLM Applications*
 - 🧪 Extending [sentinelcore](https://github.com/PSchmitz-Valckenberg/sentinelcore), the benchmark harness behind it
 - 🧩 Contributing to [langchain4j](https://github.com/langchain4j/langchain4j)
 
@@ -44,10 +44,17 @@ I build LLM applications and test how well they hold up under attack, from RAG s
 ## 📈 My GitHub Stats
 
 <!-- STATS START: delete everything down to STATS END if the cards do not load -->
-<p>
-  <img alt="GitHub stats" src="https://github-readme-stats-lyart-one-31.vercel.app/api?username=PSchmitz-Valckenberg&show_icons=true&hide_rank=true&hide=stars,issues&count_private=true&include_all_commits=true&theme=gruvbox&custom_title=Philip%27s%20GitHub%20Stats" />
-  <img alt="Top languages" src="https://github-readme-stats-lyart-one-31.vercel.app/api/top-langs/?username=PSchmitz-Valckenberg&layout=compact&langs_count=6&theme=gruvbox" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img alt="GitHub stats" src="https://github-readme-stats-lyart-one-31.vercel.app/api?username=PSchmitz-Valckenberg&show_icons=true&hide_rank=true&hide=stars,issues&count_private=true&include_all_commits=true&theme=gruvbox&custom_title=Philip%27s%20GitHub%20Stats" />
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=PSchmitz-Valckenberg&theme=gruvbox" />
+    </td>
+  </tr>
+</table>
 <!-- STATS END -->
 
 ## 📫 Contact
