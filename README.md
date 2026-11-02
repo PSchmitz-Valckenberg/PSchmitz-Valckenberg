@@ -14,7 +14,7 @@ I build LLM applications and test how well they hold up under attack, from RAG s
 
 - 🛡️ **LLM security:** benchmarks and attack/defense evaluation
 - 🤖 **AI systems:** LLM/RAG integration, function calling, voice agents
-- 🧩 **Open source:** 17+ PRs to [langchain4j](https://github.com/langchain4j/langchain4j) (13k+ ⭐)
+- 🧩 **Open source:** 20+ merged PRs to [langchain4j](https://github.com/langchain4j/langchain4j) (13k+ ⭐)
 - 💼 **Work:** Working student (Python/AI) in MedTech; previously security software (mobile VPN)
 
 ## 🚀 Selected projects
