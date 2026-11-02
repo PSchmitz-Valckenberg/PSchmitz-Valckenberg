@@ -6,7 +6,7 @@ I build LLM applications and test how well they hold up under attack, from RAG s
 
 ## 🔭 Currently
 
-- 🛡️ Writing my Bachelor's thesis on *Search-Based Testing of Prompt-Injection Defenses for LLM Applications*
+- 🛡️ Writing my Bachelor's thesis on *Search-Based Testing of Prompt-Injection Defenses for LLM Applications* (private Repo for now)
 - 🧪 Extending [sentinelcore](https://github.com/PSchmitz-Valckenberg/sentinelcore), the benchmark harness behind it
 - 🧩 Contributing to [langchain4j](https://github.com/langchain4j/langchain4j)
 
