@@ -45,7 +45,7 @@ I build LLM applications and test how well they hold up under attack, from RAG s
 
 <!-- STATS START: delete everything down to STATS END if the cards do not load -->
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats-lyart-one-31.vercel.app/api?username=PSchmitz-Valckenberg&show_icons=true&hide_rank=true&hide=stars,issues&count_private=true&include_all_commits=true&theme=gruvbox&custom_title=Philip%27s%20GitHub%20Stats&line_height=36" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=PSchmitz-Valckenberg&theme=gruvbox" />
 </p>
 <!-- STATS END -->
 
